@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\sinle\OneDrive\Desktop\C++\Introduction to Programming C++\Assignment 6 - Sang Ly\Assignment 6 - Sang Ly\Source.cpp(73,8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\sinle\OneDrive\Desktop\C++\Introduction to Programming C++\Assignment 6 - Sang Ly\Assignment 6 - Sang Ly\Source.cpp(151): warning C4715: 'continuePlaying': not all control paths return a value
+  Assignment 6 - Sang Ly.vcxproj -> C:\Users\sinle\OneDrive\Desktop\C++\Introduction to Programming C++\Assignment 6 - Sang Ly\x64\Debug\Assignment 6 - Sang Ly.exe
